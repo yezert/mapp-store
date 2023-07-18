@@ -1,34 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MAPPstore
 
-## Getting Started
+## What is this
+Hi , welcome to `MAPPstore` , you can downloads many things in this store.
+you can trust us . All of them are come from the `Offical site` , we just put them in this site.
 
-First, run the development server:
+## Why we build this shop
+Sometimes , Many apps are very helpful , but we cannot find them in a short time,maybe we will find a week later,but that was very long time!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+And sometimes, the internet is not very good , so we build this to help them download quickly
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## The technology
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+We use the `nextjs` and `tailwindcss` to build this site, those are very new things, We think they
+are very excellent. so we use them to build this
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Other 
+This site build from `16/7/2023`, it is so new so we didn't have much time to get many app,please understand us, but now it will be update quickly , please give us a star , this maybe make us excited
 
-## Learn More
+## Transerlate
+Chinese:[*click here*](./README.chinese.md)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

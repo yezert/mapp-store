@@ -25,12 +25,36 @@ export default function index() {
 						</div>
 					</div>
 
-					<div id="Content" className="mt-16 ml-16 w-full h-full flex justify-start items-start">
-						<DownloadCard
-							icon="/assets/MicrosoftEdge/edgeicon.png"
-							name="MicrosoftEdge"
-							link="/assets/MicrosoftEdge/MicrosoftEdgeSetup.exe"
-						/>
+					<div id="Content" className="mt-16 ml-16 w-full h-full flex flex-col justify-start items-start">
+						<div className="flex">
+							<DownloadCard
+								icon="/assets/MicrosoftEdge/edgeicon.png"
+								name="MicrosoftEdge"
+								link="/assets/MicrosoftEdge/MicrosoftEdgeSetup.exe"
+							/>
+							<DownloadCard
+								icon="/assets/GoogleChrome/chrome-logo.webp"
+								name="GoogleChrome"
+								link="/assets/GoogleChrome/ChromeSetup.exe"
+							/>
+							<DownloadCard
+								icon="/assets/MasterGo/icon.svg"
+								name="MasterGo"
+								link="/assets/MasterGo/MasterGo-1.6.1.exe"
+							/>
+						</div>
+						<div className="flex">
+							<DownloadCard
+								icon="/assets/CloudFlareWARP/icon.png"
+								name="CloudFlareWARP"
+								link="/assets/ClouFlareWARP/CloudFlareWarp.rar"
+							/>
+							<DownloadCard
+								icon="/assets/Bilibili/icon.png"
+								name="BilibiliDesktop"
+								link="/assets/Bilibili/bili_win-install.exe"
+							/>
+						</div>
 					</div>
 				</div>
 			</div>
