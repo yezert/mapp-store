@@ -45,11 +45,6 @@ export default function index() {
 						</div>
 						<div className="flex">
 							<DownloadCard
-								icon="/assets/CloudFlareWARP/icon.png"
-								name="CloudFlareWARP"
-								link="/assets/ClouFlareWARP/CloudFlareWarp.rar"
-							/>
-							<DownloadCard
 								icon="/assets/Bilibili/icon.png"
 								name="BilibiliDesktop"
 								link="/assets/Bilibili/bili_win-install.exe"
